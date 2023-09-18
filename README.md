@@ -13,9 +13,9 @@ Através de uma página web será apresentado um formulário de registro onde se
 Logo abaixo será possível fazer uma busca apenas com o nome do medicamento desejado, no qual será acessado o banco de dados que irá retornar em uma nova página web a quantidade disponível em estoque junto com sua validade. 
 
 
-Membros do grupo:
-LUIS AUGUSTO FERRAO AVANCINI
-AGNALDO BARROS RIBEIRO DOS SANTOS
-RICARDO EVANDRO VILELA
-JADE NOVAIS AZEVEDO PEDRO
-LUCAS SILVA TOMAZ
+Membros do grupo: <br>
+LUIS AUGUSTO FERRAO AVANCINI <br>
+AGNALDO BARROS RIBEIRO DOS SANTOS <br>
+RICARDO EVANDRO VILELA <br>
+JADE NOVAIS AZEVEDO PEDRO <br>
+LUCAS SILVA TOMAZ <br>
